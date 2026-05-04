@@ -31,19 +31,6 @@ KPI Cards — High-level affordability summary
 - Rent consumes roughly 37% of renter household income on average across analyzed metros
 - Providence, RI and Tampa, FL show sustained periods of rent growth outpacing income growth
 - Affordability deterioration accelerated sharply during the COVID-era housing disruption
-- Affordability stress is geographically clustered in select Sun Belt and Northeast metros
 
-
-## Repository Structure
-├── data/
-│   ├── raw/
-│   └── cleaned/
-├── sql/
-│   ├── queries/
-│   └── csv outputs/
-├── dashboard/
-│   └── rental_affordability_dashboard.pbix
-└── images/
-    └── dashboard_screenshots/
 
 Data Sources: Zillow Observed Rent Index (ZORI) and U.S. Census ACS Table B25119 (median renter household income)
